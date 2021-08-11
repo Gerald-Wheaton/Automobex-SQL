@@ -1,3 +1,5 @@
+CREATE DATABASE Automobex
+
 -- Provided 
 CREATE TABLE `user_profile`
 (
